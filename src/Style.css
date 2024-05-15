@@ -1,0 +1,16 @@
+/* .mainbox{
+    max-width: calc(33.3333% - 30px);
+    margin: 15px;
+} */
+.card{
+    border: 1px solid black;
+
+}
+.image{
+    height: 200px;
+    width: 100%;
+}
+.image img{
+    height: 100%;
+    object-fit: contain;
+}
